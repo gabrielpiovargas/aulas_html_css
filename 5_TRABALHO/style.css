@@ -1,0 +1,65 @@
+/* styles.css */
+
+.Cornovah2 {
+    color: white;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  nav ul {
+    background-color: red;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .content {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    color: gray;
+  }
+  
+  h3 {
+    color: rgb(0, 0, 0);
+  }
+  
+  footer {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
